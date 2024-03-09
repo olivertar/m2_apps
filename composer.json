@@ -1,0 +1,14 @@
+{
+  "name": "orangecat/apps",
+  "description": "Magento 2 Apps",
+  "type": "metapackage",
+  "version": "1.0.0",
+  "license": "OSL-3.0",
+  "require": {
+    "orangecat/cmspagerobots": "^1.0",
+    "orangecat/cspwhitelist": "^1.0",
+    "swissup/module-easytabs": "^1.12",
+    "yireo/magento2-googletagmanager2": "^3.7"
+  }
+}
+
